@@ -1,7 +1,7 @@
 # L0GithubClassroom
 Welcome to GitHub Classroom!
 
-In this lesson, we are going to confirm that you can fork, edit, and submit an assignment. 
+In this lesson, we are going to confirm that you can accept, edit, and submit an assignment. 
 
 The assignment is easy.
 
